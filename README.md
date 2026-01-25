@@ -1,0 +1,1 @@
+This project looks at height, weight, nationality, and position of the 2022-23 roster of NHL players. The source of the data was from Kaggle. Through analyses, the goal is to better understand how NHL teams are structured and what characteristics are important to different positions.
