@@ -212,7 +212,7 @@ The project successfully demonstrates application of statistical theory (Central
 
 **Pete Erickson**  
 MS in Applied Data Analytics (AI/ML) - Boston University  
-[LinkedIn](#) | [GitHub](https://github.com/ericksonpj) | [Portfolio](https://ericksonpj.github.io)
+[GitHub](https://github.com/ericksonpj)
 
 ---
 
